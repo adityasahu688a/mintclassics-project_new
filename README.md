@@ -41,5 +41,4 @@ This project analyzes the Mint Classics database to optimize inventory managemen
 ## Acknowledgments
 Completed as part of the xAI Grok 3 portfolio project, showcasing data analysis skills.
 
-## Contact
-For questions, contact [your email or GitHub profile] (e.g., yourusername@github.com).
+ 
